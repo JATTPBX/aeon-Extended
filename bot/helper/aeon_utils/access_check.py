@@ -90,7 +90,7 @@ async def error_check(message):
                 await delete_message(temp_msg)
             except Exception:
                 button = button or ButtonMaker()
-                button.data_button("Start", f"aeon {user_id} private", "header")
+                button.data_button("Start", f"thunder {user_id} private", "header")
                 msg.append("You haven't initiated the bot in a private message!")
 
     # Always authorize owner ID
