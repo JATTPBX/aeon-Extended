@@ -1118,9 +1118,9 @@ class Config:
 
     # Branding Settings
     CREDIT: str = (
-        "Powered by @aimmirror"  # Credit text shown in status messages and RSS feeds
+        "Powered by @Thundermirror"  # Credit text shown in status messages and RSS feeds
     )
-    OWNER_THUMB: str = "https://graph.org/file/80b7fb095063a18f9e232.jpg"  # Default thumbnail URL for owner
+    OWNER_THUMB: str = "https://envs.sh/QcH.jpg/HGBOTZ.jpg"  # Default thumbnail URL for owner
 
     @classmethod
     def _convert(cls, key, value):
