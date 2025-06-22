@@ -1,12 +1,12 @@
 # REQUIRED CONFIG
-BOT_TOKEN = ""  # Get this from @BotFather
-OWNER_ID = ""  # Your Telegram User ID (not username) as an integer
+BOT_TOKEN = "7823036722:AAHoQkLrU6ESpFPrAvbwQU0gF2b4rlDesWE"  # Get this from @BotFather
+OWNER_ID = "7140699364"  # Your Telegram User ID (not username) as an integer
 TELEGRAM_API = "26649585"  # Get this from my.telegram.org
 TELEGRAM_HASH = "588a3ea6fd01ae88bd2e10fed7d55b2c"  # Get this from my.telegram.org
 
 # Branding Settings
 CREDIT = "Powered by @ThunderMirror"  # Credit text shown in status messages and RSS feeds (default: "Powered by @aimmirror")
-OWNER_THUMB = ""  # Default thumbnail URL for owner (accepts Telegram file links)
+OWNER_THUMB = "https://envs.sh/QcH.jpg/HGBOTZ.jpg"  # Default thumbnail URL for owner (accepts Telegram file links)
 
 # SEMI-REQUIRED, WE SUGGEST TO FILL IT FROM MONGODB
 DATABASE_URL = "mongodb+srv://bxjjjzid:singh@cluster0.bjh3lnd.mongodb.net/"  # MongoDB URI for storing user data and preferences
